@@ -107,3 +107,10 @@
 	
 	$ git pull origin master
 	
+
+## 远程仓库和本地分支
+
+	git checkout -b yw_branch --> 创建分支并切换
+
+	git branch yw_branch --> 创建分支
+	git checkout yw_branch --> 切换分支
