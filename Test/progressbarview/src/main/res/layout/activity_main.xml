@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:huxin="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.yw.progressbarview.view.RoundProgressBarWithProgress
+        android:id="@+id/circle_progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:indeterminate="false"
+        android:padding="5dp"
+        android:progress="35"
+        huxin:progress_radius="25dp"
+        huxin:progress_reach_color="#FF0000"
+        huxin:progress_text_color="#FFFFFF"
+        huxin:progress_unreach_color="#FFFF00" />
+
+    <com.yw.progressbarview.view.DrawPicture
+        android:id="@+id/pic"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:background="#FF0000"/>
+
+    <com.yw.progressbarview.view.CheckView
+        android:id="@+id/check"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>

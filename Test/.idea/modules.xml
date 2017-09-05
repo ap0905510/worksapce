@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LuckyPanel/LuckyPanel.iml" filepath="$PROJECT_DIR$/LuckyPanel/LuckyPanel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PageRecyelerViewDemo-master/PageRecyelerViewDemo-master.iml" filepath="$PROJECT_DIR$/PageRecyelerViewDemo-master/PageRecyelerViewDemo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animdemo/animdemo.iml" filepath="$PROJECT_DIR$/animdemo/animdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitmapfillit/bitmapfillit.iml" filepath="$PROJECT_DIR$/bitmapfillit/bitmapfillit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blurring/blurring.iml" filepath="$PROJECT_DIR$/blurring/blurring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coordinator/coordinator.iml" filepath="$PROJECT_DIR$/coordinator/coordinator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventBusDemo/eventBusDemo.iml" filepath="$PROJECT_DIR$/eventBusDemo/eventBusDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsample/goodsample.iml" filepath="$PROJECT_DIR$/goodsample/goodsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoodView/goodview.iml" filepath="$PROJECT_DIR$/GoodView/goodview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/header_viewpager/header_viewpager.iml" filepath="$PROJECT_DIR$/header_viewpager/header_viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer/observer.iml" filepath="$PROJECT_DIR$/observer/observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttp3_lib/okhttp3_lib.iml" filepath="$PROJECT_DIR$/okhttp3_lib/okhttp3_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttpclient/okhttpclient.iml" filepath="$PROJECT_DIR$/okhttpclient/okhttpclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permission/permission.iml" filepath="$PROJECT_DIR$/permission/permission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyin4j/pinyin4j.iml" filepath="$PROJECT_DIR$/pinyin4j/pinyin4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressbarview/progressbarview.iml" filepath="$PROJECT_DIR$/progressbarview/progressbarview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpacket/redpacket.iml" filepath="$PROJECT_DIR$/redpacket/redpacket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snowFlake/snowFlake.iml" filepath="$PROJECT_DIR$/snowFlake/snowFlake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stickydemo/stickydemo.iml" filepath="$PROJECT_DIR$/stickydemo/stickydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webview/webview.iml" filepath="$PROJECT_DIR$/webview/webview.iml" />
+    </modules>
+  </component>
+</project>

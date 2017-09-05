@@ -1,0 +1,85 @@
+[
+    {
+        "outputFile": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-small\\layout.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 876,
+                        "endColumn": 41,
+                        "endOffset": 913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 56,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-small\\in_call_values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 775,
+                        "endColumn": 56,
+                        "endOffset": 827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 154,
+                    "endColumn": 72,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-small\\layout.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 919,
+                        "endColumn": 72,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 227,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-small\\style.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 276
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,3 @@
+include ':bigWheelDemo', ':LuckyPanel', ':retrofit2', ':bezier', ':connectionquality', ':heightlight', ':transview',
+        ':patterndesignlib', ':touch', ':panel', ':panel2', ':LuckyPan', ':coordinatorlayout',
+        ':Behavior', ':CSipSimple', ':httpprocessor', ':deamontest', ':TaskLoader', ':picasso'

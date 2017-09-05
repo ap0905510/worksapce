@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-v11\\abs__progress_medium_holo.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-v11\\abs__progress_medium_holo.xml"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-v11\\notify_panel_notification_icon_bg_tile.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-v11\\notify_panel_notification_icon_bg_tile.xml"
+    }
+]

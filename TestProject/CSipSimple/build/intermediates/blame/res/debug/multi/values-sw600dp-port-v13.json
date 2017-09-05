@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-port-v13\\values-sw600dp-port-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-sw600dp-port\\layout.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 44,
+                        "endOffset": 899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 54,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 54,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 54,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 58,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 58,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 72,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-sw600dp-port\\layout.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 785,
+                        "endColumn": 72,
+                        "endOffset": 853
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio 2.1\gradle\gradle-2.14.1" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/GoodView" />
+            <option value="$PROJECT_DIR$/LuckyPanel" />
+            <option value="$PROJECT_DIR$/PageRecyelerViewDemo-master" />
+            <option value="$PROJECT_DIR$/animdemo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bitmapfillit" />
+            <option value="$PROJECT_DIR$/blurring" />
+            <option value="$PROJECT_DIR$/coordinator" />
+            <option value="$PROJECT_DIR$/eventBusDemo" />
+            <option value="$PROJECT_DIR$/goodsample" />
+            <option value="$PROJECT_DIR$/header_viewpager" />
+            <option value="$PROJECT_DIR$/observer" />
+            <option value="$PROJECT_DIR$/okhttp3_lib" />
+            <option value="$PROJECT_DIR$/okhttpclient" />
+            <option value="$PROJECT_DIR$/permission" />
+            <option value="$PROJECT_DIR$/pinyin4j" />
+            <option value="$PROJECT_DIR$/progressbarview" />
+            <option value="$PROJECT_DIR$/redpacket" />
+            <option value="$PROJECT_DIR$/snowFlake" />
+            <option value="$PROJECT_DIR$/stickydemo" />
+            <option value="$PROJECT_DIR$/webview" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

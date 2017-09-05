@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\studio\\Test\\eventBusDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\studio\\Test\\eventBusDemo\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\studio\\Test\\eventBusDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7beea235335bad4708ee7823620160609e54660c\\output\\res\\drawable-xhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "E:\\studio\\Test\\eventBusDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\hxm_app_rep_detail_bg.png",
+        "source": "E:\\studio\\Test\\eventBusDemo\\src\\main\\res\\drawable-xhdpi\\hxm_app_rep_detail_bg.png"
+    }
+]

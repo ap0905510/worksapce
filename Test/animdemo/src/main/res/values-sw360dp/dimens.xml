@@ -1,0 +1,13 @@
+<resources>
+
+    <dimen name="hx_anim_item_x1">120px</dimen>
+    <dimen name="hx_anim_item_x2">140px</dimen>
+    <dimen name="hx_anim_item_y1">-220px</dimen>
+    <dimen name="hx_anim_item_y2">-240px</dimen>
+
+    <!--<dimen name="hx_anim_item_x1">40dp</dimen>
+    <dimen name="hx_anim_item_x2">48dp</dimen>
+    <dimen name="hx_anim_item_y1">-74dp</dimen>
+    <dimen name="hx_anim_item_y2">-76dp</dimen>-->
+
+</resources>

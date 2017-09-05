@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">permission</string>
+
+    <!--hx_activity_perm_huawei_dial-->
+    <string name="hx_sdk_perm_huawei_dial_01">第一步 在应用滑动列表找到</string>
+    <string name="hx_sdk_perm_huawei_dial_02">&quot;呼信&quot;</string>
+    <string name="hx_sdk_perm_huawei_dial_03">呼信</string>
+    <string name="hx_sdk_perm_huawei_dial_04">16项权限</string>
+    <string name="hx_sdk_perm_huawei_dial_05">第二步 点击进入详情, 设置</string>
+    <string name="hx_sdk_perm_huawei_dial_06">拨打电话为允许</string>
+    <string name="hx_sdk_perm_huawei_dial_07">读取联系人为允许</string>
+
+    <!--hx_activity_perm_huawei_protect-->
+
+    <string name="hx_sdk_perm_huawei_protect_01">滑动列表找到</string>
+    <string name="hx_sdk_perm_huawei_protect_02">已保护</string>
+    <string name="hx_sdk_perm_huawei_protect_03">开启开关</string>
+
+    <!--hx_activity_perm_huawei_window-->
+    <string name="hx_sdk_perm_huawei_window_01">滑动列表找到</string>
+    <string name="hx_sdk_perm_huawei_window_02">已允许</string>
+
+    <!--hx_activity_perm_meizu_dial-->
+    <string name="hx_activity_perm_meizu_dial_01">打开</string>
+    <string name="hx_activity_perm_meizu_dial_02">&quot;拨打电话&quot;</string>
+    <string name="hx_activity_perm_meizu_dial_03">选项, 选择</string>
+    <string name="hx_activity_perm_meizu_dial_04">&quot;允许&quot;</string>
+    <string name="hx_activity_perm_meizu_dial_05">&quot;读取联系人信息&quot;</string>
+
+    <!--hx_activity_perm_meizu_note_dial-->
+    <string name="hx_activity_perm_meizu_note_dial_01">打开</string>
+
+    <!--hx_activity_perm_meizu_note_protect-->
+    <string name="hx_activity_perm_meizu_note_protect_01">滑动列表找到</string>
+    <string name="hx_activity_perm_meizu_note_protect_02">&quot;呼信&quot;</string>
+
+    <!--hx_activity_perm_meizu_note_window-->
+    <string name="hx_activity_perm_meizu_note_window_01">开启</string>
+    <string name="hx_activity_perm_meizu_note_window_02">&quot;悬浮窗&quot;</string>
+    <string name="hx_activity_perm_meizu_note_window_03">开关</string>
+    <string name="hx_activity_perm_meizu_note_protect_04">第一步 点击右上角的</string>
+    <string name="hx_activity_perm_meizu_note_protect_05">&quot;设置&quot;</string>
+    <string name="hx_activity_perm_meizu_note_protect_06">第二步 进入</string>
+    <string name="hx_activity_perm_meizu_note_protect_07">&quot;内存加速白名单&quot;</string>
+    <string name="hx_activity_perm_meizu_note_protect_08">第三步 将</string>
+    <string name="hx_activity_perm_meizu_note_protect_09">加入白名单</string>
+
+    <!--hx_activity_perm_oppo2_dial-->
+    <string name="hx_activity_perm_oppo2_dial_01">第一步 在权限管理列表中找到&quot;电话&quot;选项, 点击进入</string>
+    <string name="hx_activity_perm_oppo2_dial_02">第二步 找到</string>
+    <string name="hx_activity_perm_oppo2_dial_03">, 设置为&quot;允许使用&quot;</string>
+    <string name="hx_activity_perm_oppo2_dial_04">滑动列表找到</string>
+    <string name="hx_activity_perm_oppo2_dial_05">点击&quot;锁定&quot;图标</string>
+    <string name="hx_activity_perm_oppo2_dial_06">第一步 在权限管理列表中找到&quot;悬浮窗管理&quot;选项, 点击进入</string>
+    <string name="hx_activity_perm_oppo2_dial_07">, 开启开关</string>
+    <string name="hx_activity_perm_oppo2_dial_08">第一步 在权限管理列表中找到&quot;读取联系人信息&quot;选项, 点击进入</string>
+    <string name="hx_activity_perm_oppo3_dial_01">第一步 在应用列表中找到</string>
+    <string name="hx_activity_perm_oppo3_dial_02">, 点击进去</string>
+    <string name="hx_activity_perm_oppo3_dial_03">第二步 点击电话选项, 选择&quot;允许&quot;</string>
+    <string name="hx_activity_perm_oppo3_dial_04">开启开关</string>
+    <string name="hx_activity_perm_oppo3_dial_05">第二步 点击读取联系人选项, 选择&quot;允许&quot;</string>
+
+    <!--hx_activity_perm_vivo_dial-->
+    <string name="hx_activity_perm_vivo_dial_01">第一步 点击</string>
+    <string name="hx_activity_perm_vivo_dial_02">&quot;软件管理&quot;</string>
+    <string name="hx_activity_perm_vivo_dial_03">第二步 点击</string>
+    <string name="hx_activity_perm_vivo_dial_04">&quot;软件权限管理&quot;</string>
+    <string name="hx_activity_perm_vivo_dial_05">&quot;拨打电话&quot;</string>
+    <string name="hx_activity_perm_vivo_dial_06">点击</string>
+    <string name="hx_activity_perm_vivo_dial_07">第三步 找到</string>
+    <string name="hx_activity_perm_vivo_dial_08">&quot;呼信&quot;</string>
+    <string name="hx_activity_perm_vivo_dial_09">, 将拨打电话设置为</string>
+    <string name="hx_activity_perm_vivo_dial_10">&quot;允许&quot;</string>
+    <string name="hx_activity_perm_vivo_dial_11">&quot;访问联系人&quot;</string>
+    <string name="hx_activity_perm_vivo_dial_12">, 将访问联系人设置为</string>
+
+    <string name="hx_activity_perm_vivo_protect_01">滑动列表找到</string>
+    <string name="hx_activity_perm_vivo_protect_02">&quot;软件管理&quot;</string>
+    <string name="hx_activity_perm_vivo_protect_03">找到</string>
+
+    <!--hx_activity_perm_xiaomi_dial-->
+    <string name="hx_activity_perm_xiaomi_dial_01">开启开关</string>
+
+    <!--hx_fragment_permission-->
+    <string name="hx_fragment_permission_01">为了正常使用呼信智能通话功能，\n请开启下列权限:</string>
+    <string name="hx_fragment_permission_02">开启&quot;拨打电话&quot;权限</string>
+    <string name="hx_fragment_permission_03">打开手机【设置】，找到APP的【电话】或【拨打电话】权限，设置为【允许】。</string>
+    <string name="hx_fragment_permission_04">开启&quot;悬浮窗&quot;权限</string>
+    <string name="hx_fragment_permission_05">打开手机【设置】，找到APP的【权限管理】，将【悬浮窗】权限设置为【开启】状态。</string>
+    <string name="hx_fragment_permission_06">开启&quot;受保护的应用&quot;权限</string>
+    <string name="hx_fragment_permission_07">打开手机【设置】，在【受保护的应用】列表中，将APP加入【受保护应用】列表。如【设置】中没有【受保护应用】管理，可在系统自带的权限管理软件中查找。</string>
+    <string name="hx_fragment_permission_08">开启&quot;读取联系人&quot;权限</string>
+    <string name="hx_fragment_permission_09">打开手机【设置】，找到APP的【权限管理】，将【联系人】权限设置为【允许】。</string>
+
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Behavior" />
+            <option value="$PROJECT_DIR$/CSipSimple" />
+            <option value="$PROJECT_DIR$/LuckyPan" />
+            <option value="$PROJECT_DIR$/LuckyPanel" />
+            <option value="$PROJECT_DIR$/TaskLoader" />
+            <option value="$PROJECT_DIR$/bezier" />
+            <option value="$PROJECT_DIR$/bigWheelDemo" />
+            <option value="$PROJECT_DIR$/connectionquality" />
+            <option value="$PROJECT_DIR$/coordinatorlayout" />
+            <option value="$PROJECT_DIR$/deamontest" />
+            <option value="$PROJECT_DIR$/heightlight" />
+            <option value="$PROJECT_DIR$/httpprocessor" />
+            <option value="$PROJECT_DIR$/panel" />
+            <option value="$PROJECT_DIR$/panel2" />
+            <option value="$PROJECT_DIR$/patterndesignlib" />
+            <option value="$PROJECT_DIR$/picasso" />
+            <option value="$PROJECT_DIR$/retrofit2" />
+            <option value="$PROJECT_DIR$/touch" />
+            <option value="$PROJECT_DIR$/transview" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

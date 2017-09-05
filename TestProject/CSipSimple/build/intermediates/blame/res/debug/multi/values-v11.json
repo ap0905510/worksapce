@@ -1,0 +1,163 @@
+[
+    {
+        "outputFile": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-v11\\bools.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 47,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 41,
+                    "endOffset": 140
+                },
+                "from": {
+                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-v11\\bools.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 41,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 145,
+                    "endColumn": 68,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-v11\\style.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 69,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 92,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-v11\\style.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 93,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 89,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-v11\\style.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 90,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 53,
+                    "endOffset": 446
+                },
+                "from": {
+                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-v11\\style.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 54,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 451,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 636
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 641,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 838
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 565
+                    }
+                }
+            }
+        ]
+    }
+]

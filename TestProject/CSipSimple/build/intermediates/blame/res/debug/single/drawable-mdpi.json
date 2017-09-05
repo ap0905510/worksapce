@@ -1,0 +1,1434 @@
+[
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_tpoint.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_tpoint.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_bottom_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_sapo.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_sapo.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_catitel.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_catitel.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_prefs_media.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_prefs_media.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_abcvoip.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_abcvoip.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dial_num_6_wht.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\dial_num_6_wht.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_voipbel.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_voipbel.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_fusion.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_fusion.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_fix2mod.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_fix2mod.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher_phone.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_launcher_phone.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_mundor.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_mundor.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\endcall_background_texture.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\endcall_background_texture.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_chattaboxx.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_chattaboxx.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_mydivert.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_mydivert.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_stacked_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_indicator_red.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_indicator_red.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\takecall_background_texture.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\takecall_background_texture.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_voipms.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_voipms.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\jog_tab_right_confirm_red.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\jog_tab_right_confirm_red.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__btn_cab_done_focused_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__btn_cab_done_focused_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_voice_search_api_holo_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_ab_default_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__btn_cab_done_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__btn_cab_done_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_ab_trash_dark.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_ab_trash_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_zadarma.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_zadarma.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_aaisp.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_aaisp.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_mobex.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_mobex.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_select_invert.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_action_select_invert.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_gradwell.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_gradwell.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_lock_power_off.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_lock_power_off.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_flowroute.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_flowroute.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_pbxes.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_pbxes.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_menu_share_holo_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_broadsoft.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_broadsoft.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_ab_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_telsome.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_telsome.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\jog_tab_right_pressed.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\jog_tab_right_pressed.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__textfield_search_selected_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_sip2sip.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_sip2sip.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_wimobile.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_wimobile.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\appwidget_settings_ind_on.9.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\appwidget_settings_ind_on.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_gsm.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_gsm.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_prefs_calls.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_prefs_calls.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_ab_favourites_holo_dark.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_ab_favourites_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_a1.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_a1.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__textfield_search_selected_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_indicator_yellow.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_indicator_yellow.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\emo_im_embarrassed.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\emo_im_embarrassed.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_vanbergsystems.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_vanbergsystems.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_solid_shadow_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ab_solid_shadow_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_multifon.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_multifon.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dial_num_star_wht.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\dial_num_star_wht.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\emo_im_laughing.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\emo_im_laughing.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_contact_picture_180_holo_light.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_contact_picture_180_holo_light.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_dial_action_call.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_dial_action_call.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_broadvoice.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_broadvoice.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stat_sys_vp_phone_call.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\stat_sys_vp_phone_call.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_italkworld.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_italkworld.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_signumtel.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_signumtel.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\emo_im_cool.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\emo_im_cool.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\jog_tab_target_green.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\jog_tab_target_green.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_share_pack_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_callromania.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_callromania.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_easycallgr.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_easycallgr.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_pttjapan.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_pttjapan.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_sfr.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_sfr.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_t_online.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_t_online.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_iptel.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_iptel.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_planetphone.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_planetphone.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_sound_bluetooth_holo_dark.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_sound_bluetooth_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\notify_panel_notification_icon_bg.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\emo_im_yelling.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\emo_im_yelling.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_ippi.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_ippi.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_fastvoip.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_fastvoip.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_sipme.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_sipme.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_voipdoup.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_voipdoup.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_fringtalktw.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_fringtalktw.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_ab_back_holo_dark.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_smarto.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_smarto.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\emo_im_lips_are_sealed.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\emo_im_lips_are_sealed.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_onsip.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_onsip.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__btn_cab_done_focused_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__btn_cab_done_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_lolawireless.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_lolawireless.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_bottom_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_menu_share_holo_dark.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_freespeech.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_freespeech.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_stacked_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_ingetel.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_ingetel.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_ab_default_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\emo_im_foot_in_mouth.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\emo_im_foot_in_mouth.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_account_list.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_menu_account_list.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_ab_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_basic.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_basic.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_48_inner_holo.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__spinner_48_inner_holo.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_ostn.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_ostn.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_balses.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_balses.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_cotas.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_cotas.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\emo_im_tongue_sticking_out.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\emo_im_tongue_sticking_out.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_bottom_solid_light_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_ab_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__progress_bg_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__progress_bg_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stat_notify_sms.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\stat_notify_sms.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_call_missed_holo_dark.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_call_missed_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_iinet.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_iinet.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_deps.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_deps.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_telenative.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_telenative.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_contact_picture_180_holo_dark.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_contact_picture_180_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__btn_cab_done_default_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__btn_cab_done_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_vitelity.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_vitelity.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\jog_tab_bar_right_end_pressed.9.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\jog_tab_bar_right_end_pressed.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_commit_search_api_holo_dark.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_oneworldsip.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_oneworldsip.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_orbtalk.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_orbtalk.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_msg_compose_holo_dark.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_menu_msg_compose_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_fongo.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_fongo.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_optimum_lightpath.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_optimum_lightpath.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\jog_tab_bar_left_end_normal.9.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\jog_tab_bar_left_end_normal.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dial_background_texture.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\dial_background_texture.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_clear_disabled.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_clear_disabled.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dial_num_4_wht.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\dial_num_4_wht.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_sbohempevnalinko.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_sbohempevnalinko.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_callcentric.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_callcentric.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_prefs_network.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_prefs_network.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\jog_tab_bar_right_end_confirm_red.9.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\jog_tab_bar_right_end_confirm_red.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_prefs_ui.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_prefs_ui.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\jog_tab_bar_right_end_normal.9.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\jog_tab_bar_right_end_normal.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__textfield_search_right_default_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_blueface.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_blueface.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_voipplanet.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_voipplanet.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_beeztel.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_beeztel.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_ab_text_holo_dark.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_ab_text_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_call_incoming_holo_dark.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_call_incoming_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_vega.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_vega.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_localphone.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_localphone.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_telekom_srbija.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_telekom_srbija.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_end_call.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_end_call.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_pfingo.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_pfingo.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__textfield_search_right_default_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_search.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_search.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_stacked_solid_light_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\emo_im_wtf.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\emo_im_wtf.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\jog_tab_bar_left_end_confirm_green.9.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\jog_tab_bar_left_end_confirm_green.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_youmagic.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_youmagic.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dial_num_8_wht.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\dial_num_8_wht.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_supercel.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_supercel.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_tab_selected_contacts.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_tab_selected_contacts.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_sipwise.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_sipwise.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_tenet.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_tenet.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_mweb.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_mweb.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_voipllama.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_voipllama.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\jog_tab_bar_left_end_pressed.9.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\jog_tab_bar_left_end_pressed.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_mitelefono.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_mitelefono.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_fritzbox.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_fritzbox.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_contacts_holo_dark.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_contacts_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_indicator_off.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_indicator_off.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_camundanet.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_camundanet.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_prefs_filter.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_prefs_filter.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_zeng.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_zeng.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_dvcng.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_dvcng.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_mute_holo_dark.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_mute_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_contact_picture_holo_dark.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_contact_picture_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_advanced.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_advanced.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_blicnet.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_blicnet.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_voipmuch.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_voipmuch.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dial_num_1_wht.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\dial_num_1_wht.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_freelycall.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_freelycall.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_cellip.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_cellip.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_voipnor.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_voipnor.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_voipportal.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_voipportal.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__cab_background_top_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dial_num_0_wht.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\dial_num_0_wht.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_voocall.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_voocall.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_megafon.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_megafon.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_sipgate.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_sipgate.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_voiptiger.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_voiptiger.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_share_pack_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_ipshka.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_ipshka.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher_nightly.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_launcher_nightly.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_expert.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_expert.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_abatel.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_abatel.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\grabber.9.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\grabber.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__toast_frame.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__toast_frame.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_eutelia.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_eutelia.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__progress_primary_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__progress_primary_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_deltathree.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_deltathree.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_cryptel.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_cryptel.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_congstar.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_congstar.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_stacked_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_sound_speakerphone_holo_dark.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_sound_speakerphone_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_ekiga.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_ekiga.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_ab_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_filter.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_menu_filter.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_clear_search_api_holo_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_pozitel.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_pozitel.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_bottom_solid_inverse_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ab_bottom_solid_inverse_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_prefs_fast.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_prefs_fast.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_ab_dialpad.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_ab_dialpad.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_yesmy.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_yesmy.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_easybell.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_easybell.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_48_outer_holo.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__spinner_48_outer_holo.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_mobile4u.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_mobile4u.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\jog_tab_target_red.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\jog_tab_target_red.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_sipnet.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_sipnet.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__textfield_search_default_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_ab_dialer_holo_dark.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_ab_dialer_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_switch_digit.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_menu_switch_digit.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_sipkom.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_sipkom.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_goto.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_menu_goto.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_scarlet.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_scarlet.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_bgopen.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_bgopen.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_call_pressed.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\btn_call_pressed.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_micro_dark.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_micro_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_go.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_go.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_search_api_holo_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__textfield_search_default_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_dell.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_dell.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_dial_action_delete.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_dial_action_delete.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_necc.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_necc.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_ab_back_holo_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_clear_search_api_disabled_holo_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__progress_bg_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__progress_bg_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_anv.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_anv.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_solid_light_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_mondotalk.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_mondotalk.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\jog_tab_right_normal.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\jog_tab_right_normal.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_speakezi.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_speakezi.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\jog_tab_left_pressed.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\jog_tab_left_pressed.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\jog_tab_left_normal.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\jog_tab_left_normal.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_auto_answer.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_menu_auto_answer.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dial_num_5_wht.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\dial_num_5_wht.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_jog_dial_unlock.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_jog_dial_unlock.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_tanstagi.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_tanstagi.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__progress_secondary_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__progress_secondary_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\emo_im_crying.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\emo_im_crying.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_prefs_media_video.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_prefs_media_video.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__progress_secondary_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__progress_secondary_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_sipsorcery.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_sipsorcery.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\emo_im_surprised.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\emo_im_surprised.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_haloo.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_haloo.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dial_num_7_wht.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\dial_num_7_wht.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_go_search_api_holo_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_ovh.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_ovh.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dial_num_2_wht.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\dial_num_2_wht.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\list_selector_background_pressed.9.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\list_selector_background_pressed.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_ukrtelecom.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_ukrtelecom.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_tlenofon.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_tlenofon.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_ajtel.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_ajtel.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\emo_im_sad.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\emo_im_sad.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__btn_cab_done_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__btn_cab_done_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_interphone365.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_interphone365.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\jog_tab_left_confirm_green.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\jog_tab_left_confirm_green.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_sonetel.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_sonetel.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_cab_done_holo_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\emo_im_winking.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\emo_im_winking.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_viva.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_viva.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\appwidget_settings_ind_off.9.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\appwidget_settings_ind_off.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dial_num_9_wht.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\dial_num_9_wht.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dial_num_3_wht.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\dial_num_3_wht.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_call_outgoing_holo_dark.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_call_outgoing_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_modulus.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_modulus.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_keyyo.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_keyyo.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__cab_background_bottom_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_clear_normal.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_clear_normal.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_intertelecom.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_intertelecom.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_voiptelie.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_voiptelie.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_nymgo.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_nymgo.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__textfield_search_right_selected_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_securdata.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_securdata.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_belcentrale.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_belcentrale.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__progress_primary_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__progress_primary_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\appwidget_preview.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\appwidget_preview.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__list_divider_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_ale.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_ale.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__btn_cab_done_default_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__btn_cab_done_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_directdial.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_directdial.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_enaknet.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_enaknet.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_jog_dial_decline.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_jog_dial_decline.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_siptel.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_siptel.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_voice_search.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_voice_search.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\emo_im_happy.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\emo_im_happy.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_tecobu.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_tecobu.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__menu_dropdown_panel_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_haloo_centrala.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_haloo_centrala.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_ocn.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_ocn.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\emo_im_angel.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\emo_im_angel.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_ab_history_holo_dark.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_ab_history_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_amivox.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_amivox.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_freephonelineca.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_freephonelineca.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__list_divider_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_speaker_dark.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_speaker_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_indicator_on.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_indicator_on.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_svanto.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_svanto.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_pennytel.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_pennytel.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_ab_focused_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\appwidget_settings_ind_yellow.9.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\appwidget_settings_ind_yellow.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_ip2mobile.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_ip2mobile.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_globtelecom.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_globtelecom.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_divider_dashed_holo_dark.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_divider_dashed_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_answer_call.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_menu_answer_call.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dial_num_pound_wht.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\dial_num_pound_wht.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\appwidget_settings_ind_red.9.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\appwidget_settings_ind_red.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_freeconet.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_freeconet.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_phonzo.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_phonzo.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__list_activated_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__list_activated_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__cab_background_top_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__tab_selected_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_mobilewifi.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_mobilewifi.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_jog_dial_answer.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_jog_dial_answer.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_ittelenet.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_ittelenet.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\emo_im_kissing.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\emo_im_kissing.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_reachphones.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_reachphones.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_switch_txt.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_menu_switch_txt.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_neuftalk.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_neuftalk.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_innotel.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_innotel.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_mtel.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_mtel.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_optimus.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_optimus.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_blocked_user.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_menu_blocked_user.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__spinner_ab_focused_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\emo_im_undecided.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\emo_im_undecided.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__textfield_search_right_selected_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_bgtel.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_bgtel.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_rapidvox.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_rapidvox.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_add_contact_holo_dark.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_add_contact_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_vphone.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_vphone.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__menu_dropdown_panel_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_commit_search_api_holo_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_zonpt.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_zonpt.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_peopleline.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_peopleline.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_eurotelefon.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_eurotelefon.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_sms_mms_not_delivered.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_sms_mms_not_delivered.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_odorik.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_odorik.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_freephonie.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_freephonie.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_netelip.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_netelip.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\emo_im_money_mouth.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\emo_im_money_mouth.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__cab_background_bottom_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ab_bottom_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_messagenet.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_messagenet.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_deltatelecom.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_deltatelecom.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_vono.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_vono.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__ic_cab_done_holo_dark.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_ipcomms.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_ipcomms.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_xnet.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_xnet.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abs__list_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\drawable-mdpi\\abs__list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_wizard_btone.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi\\ic_wizard_btone.png"
+    }
+]

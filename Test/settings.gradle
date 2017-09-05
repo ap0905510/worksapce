@@ -1,0 +1,5 @@
+include ':PageRecyelerViewDemo-master', ':blurring', ':okhttp3_lib', ':stickydemo', ':observer', ':pinyin4j',
+        ':redpacket', ':okhttpclient', ':LuckyPanel', ':bitmapfillit', ':progressbarview', ':animdemo',
+        ':permission', /*':GreenDao',*/ ':app', ':header_viewpager', ':webview', ':coordinator', ':GoodView', ':goodview', ':goodsample'
+include ':eventBusDemo'
+include ':snowFlake'

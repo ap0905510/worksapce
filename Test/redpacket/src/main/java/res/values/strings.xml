@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">红包Demo</string>
+
+    <string name="transfer_msg_send">对方已收到转账</string>
+    <string name="transfer_msg_receive">已收到对方转账</string>
+    <string name="msg_transfer_to_you">[转账]向你转账%1$s元</string>
+    <string name="msg_transfer_from_you">[转账]转账%1$s元</string>
+    <string name="enter_single_red_packet">进入单聊红包页面</string>
+    <string name="enter_group_red_packet">进入群聊红包页面</string>
+    <string name="enter_transfer">进入转账页面</string>
+    <string name="enter_change">进入零钱页面</string>
+    <string name="enter_random_red_packet">进入小额随机红包页面</string>
+    <string name="swap_user">切换用户</string>
+
+    <string name="enter_group_p2p_red_packet">进入专属红包页面</string>
+    <string name="system">系统红包</string>
+    <string name="ad">广告红包</string>
+    <string name="contact_us">联系我们</string>
+    <string name="clear_cache">清除用户</string>
+
+    <string name="msg_contact_us">客服热线 : 400-6565-739\n\n业务咨询 : BD@yunzhanghu.com\n\n客服QQ : 4006565739\n\n技术支持QQ群 : 366135448</string>
+    <string name="msg_system_red_packet">以系统管理员的身份给用户发拼手气群红包，特别适合开发者们做运营活动使用。详情请咨询客服。</string>
+    <string name="msg_ad_red_packet">使用云账户的商户端进行广告计划和品牌主红包素材配置，计划开始执行时，给符合条件的用户发放一个品牌红包，增加品牌曝光量。详情请咨询客服。</string>
+    <string name="btn_str_confirm">确定</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_sender">请输入发送者手机号</string>
+    <string name="prompt_receiver">请输入接收者手机号</string>
+    <string name="action_sign_in">进入Demo</string>
+    <string name="error_invalid_sender_name">发送者手机号输入错误</string>
+    <string name="error_invalid_receiver_name">接收者手机号输入错误</string>
+    <string name="error_invalid_mobile_no">您输入的手机号不合法</string>
+    <string name="demo_tips">为防止和其他Demo使用者用户名重复，请输入真实有效的手机号。</string>
+    <string name="str_red_packet_type">红包类型 ： %s</string>
+    <string name="str_same_mobile_tip">请输入不同的手机号</string>
+    <string name="str_current_user">当前用户</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Behavior/Behavior.iml" filepath="$PROJECT_DIR$/Behavior/Behavior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSipSimple/CSipSimple.iml" filepath="$PROJECT_DIR$/CSipSimple/CSipSimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LuckyPan/LuckyPan.iml" filepath="$PROJECT_DIR$/LuckyPan/LuckyPan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LuckyPanel/LuckyPanel.iml" filepath="$PROJECT_DIR$/LuckyPanel/LuckyPanel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaskLoader/TaskLoader.iml" filepath="$PROJECT_DIR$/TaskLoader/TaskLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestProject.iml" filepath="$PROJECT_DIR$/TestProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bezier/bezier.iml" filepath="$PROJECT_DIR$/bezier/bezier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigWheelDemo/bigWheelDemo.iml" filepath="$PROJECT_DIR$/bigWheelDemo/bigWheelDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/connectionquality/connectionquality.iml" filepath="$PROJECT_DIR$/connectionquality/connectionquality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coordinatorlayout/coordinatorlayout.iml" filepath="$PROJECT_DIR$/coordinatorlayout/coordinatorlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deamontest/deamontest.iml" filepath="$PROJECT_DIR$/deamontest/deamontest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heightlight/heightlight.iml" filepath="$PROJECT_DIR$/heightlight/heightlight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpprocessor/httpprocessor.iml" filepath="$PROJECT_DIR$/httpprocessor/httpprocessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/panel/panel.iml" filepath="$PROJECT_DIR$/panel/panel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/panel2/panel2.iml" filepath="$PROJECT_DIR$/panel2/panel2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterndesignlib/patterndesignlib.iml" filepath="$PROJECT_DIR$/patterndesignlib/patterndesignlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/picasso/picasso.iml" filepath="$PROJECT_DIR$/picasso/picasso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofit2/retrofit2.iml" filepath="$PROJECT_DIR$/retrofit2/retrofit2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/touch/touch.iml" filepath="$PROJECT_DIR$/touch/touch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transview/transview.iml" filepath="$PROJECT_DIR$/transview/transview.iml" />
+    </modules>
+  </component>
+</project>

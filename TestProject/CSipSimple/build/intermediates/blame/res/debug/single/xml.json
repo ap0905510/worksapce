@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_network.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\xml\\prefs_network.xml"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_network_secure.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\xml\\prefs_network_secure.xml"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_headers.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\xml\\prefs_headers.xml"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_network_sip_protocol.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\xml\\prefs_network_sip_protocol.xml"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\xml\\w_auth_and_proxy_preferences.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\xml\\w_auth_and_proxy_preferences.xml"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_media_band_types.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\xml\\prefs_media_band_types.xml"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_calls.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\xml\\prefs_calls.xml"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\xml\\appwidget_info.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\xml\\appwidget_info.xml"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_ui.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\xml\\prefs_ui.xml"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_network_keep_alive.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\xml\\prefs_network_keep_alive.xml"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\xml\\w_advanced_preferences.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\xml\\w_advanced_preferences.xml"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\xml\\w_alternate_server_preferences.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\xml\\w_alternate_server_preferences.xml"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\xml\\w_authorization_preferences.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\xml\\w_authorization_preferences.xml"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\xml\\w_expert_preferences.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\xml\\w_expert_preferences.xml"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\xml\\w_simple_preferences.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\xml\\w_simple_preferences.xml"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\xml\\appshortcut_info.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\xml\\appshortcut_info.xml"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_media_troubleshoot.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\xml\\prefs_media_troubleshoot.xml"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\xml\\w_basic_preferences.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\xml\\w_basic_preferences.xml"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\xml\\prefs_media.xml",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\xml\\prefs_media.xml"
+    }
+]

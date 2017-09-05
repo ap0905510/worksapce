@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-port-v4\\values-xlarge-port-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-xlarge-port\\layout.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 44,
+                        "endOffset": 899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 72,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-xlarge-port\\layout.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 785,
+                        "endColumn": 72,
+                        "endOffset": 853
+                    }
+                }
+            }
+        ]
+    }
+]

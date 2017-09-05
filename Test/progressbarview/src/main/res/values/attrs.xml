@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--IM进度条-->
+    <attr name="progress_unreach_color" format="color" />
+    <attr name="progress_unreach_height" format="dimension" />
+    <attr name="progress_reach_color" format="color" />
+    <attr name="progress_reach_height" format="dimension" />
+    <attr name="progress_text_color" format="color" />
+    <attr name="progress_text_size" format="dimension" />
+    <attr name="progress_text_offset" format="dimension" />
+
+    <declare-styleable name="HorizontalProgressBar">
+        <attr name="progress_unreach_color" />
+        <attr name="progress_unreach_height" />
+        <attr name="progress_reach_color" />
+        <attr name="progress_reach_height" />
+        <attr name="progress_text_color" />
+        <attr name="progress_text_size" />
+        <attr name="progress_text_offset" />
+    </declare-styleable>
+
+    <declare-styleable name="RoundProgressBarWithProgress">
+        <attr name="progress_radius" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="circleProgressbar">
+        <attr name="progress_unreach_color" />
+        <attr name="progress_unreach_height" />
+        <attr name="progress_reach_color" />
+        <attr name="progress_reach_height" />
+        <attr name="progress_text_color" />
+        <attr name="progress_text_size" />
+        <attr name="progress_text_offset" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\dial_background_texture.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-ldpi\\dial_background_texture.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_wizard_voipbel.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-ldpi\\ic_wizard_voipbel.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_menu_switch_digit.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-ldpi\\ic_menu_switch_digit.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher_phone.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-ldpi\\ic_launcher_phone.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_wizard_fusion.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-ldpi\\ic_wizard_fusion.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_wizard_congstar.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-ldpi\\ic_wizard_congstar.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_prefs_media.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-ldpi\\ic_prefs_media.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_prefs_media_video.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-ldpi\\ic_prefs_media_video.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_wizard_mundor.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-ldpi\\ic_wizard_mundor.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_wizard_modulus.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-ldpi\\ic_wizard_modulus.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_wizard_sfr.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-ldpi\\ic_wizard_sfr.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher_nightly.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-ldpi\\ic_launcher_nightly.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_wizard_keyyo.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-ldpi\\ic_wizard_keyyo.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_wizard_megavoip.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-ldpi\\ic_wizard_megavoip.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_wizard_t_online.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-ldpi\\ic_wizard_t_online.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_wizard_freephonie.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-ldpi\\ic_wizard_freephonie.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_menu_switch_txt.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-ldpi\\ic_menu_switch_txt.png"
+    }
+]

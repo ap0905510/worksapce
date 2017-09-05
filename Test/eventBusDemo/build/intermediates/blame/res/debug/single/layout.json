@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\studio\\Test\\eventBusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\studio\\Test\\eventBusDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\studio\\Test\\eventBusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_media_dispay.xml",
+        "source": "E:\\studio\\Test\\eventBusDemo\\src\\main\\res\\layout\\activity_media_dispay.xml"
+    },
+    {
+        "merged": "E:\\studio\\Test\\eventBusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_audio.xml",
+        "source": "E:\\studio\\Test\\eventBusDemo\\src\\main\\res\\layout\\fragment_audio.xml"
+    },
+    {
+        "merged": "E:\\studio\\Test\\eventBusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item_detail.xml",
+        "source": "E:\\studio\\Test\\eventBusDemo\\src\\main\\res\\layout\\fragment_item_detail.xml"
+    },
+    {
+        "merged": "E:\\studio\\Test\\eventBusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_file.xml",
+        "source": "E:\\studio\\Test\\eventBusDemo\\src\\main\\res\\layout\\fragment_file.xml"
+    },
+    {
+        "merged": "E:\\studio\\Test\\eventBusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_list.xml",
+        "source": "E:\\studio\\Test\\eventBusDemo\\src\\main\\res\\layout\\activity_item_list.xml"
+    },
+    {
+        "merged": "E:\\studio\\Test\\eventBusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pic.xml",
+        "source": "E:\\studio\\Test\\eventBusDemo\\src\\main\\res\\layout\\fragment_pic.xml"
+    },
+    {
+        "merged": "E:\\studio\\Test\\eventBusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_video.xml",
+        "source": "E:\\studio\\Test\\eventBusDemo\\src\\main\\res\\layout\\fragment_video.xml"
+    },
+    {
+        "merged": "E:\\studio\\Test\\eventBusDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item_detail.xml",
+        "source": "E:\\studio\\Test\\eventBusDemo\\src\\main\\res\\layout\\activity_item_detail.xml"
+    }
+]

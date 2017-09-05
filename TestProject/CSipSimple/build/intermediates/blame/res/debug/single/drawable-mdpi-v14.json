@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v14\\appwidget_bg.9.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi-v14\\appwidget_bg.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v14\\appwidget_inner_press.9.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi-v14\\appwidget_inner_press.9.png"
+    },
+    {
+        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v14\\appwidget_inner_focus.9.png",
+        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-mdpi-v14\\appwidget_inner_focus.9.png"
+    }
+]
