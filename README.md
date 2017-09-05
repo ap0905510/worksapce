@@ -107,3 +107,13 @@
 	
 	$ git pull origin master
 	
+
+## 分支 & master
+
+>1.新建分支
+
+	git checkout -b branch_yw  --> 新建并切换到该分支
+	git branch branch_yw --> 创建分支
+	git cheakout branch_yw  --> 切换分支
+	
+	git checkout master  --> 切回主分支
