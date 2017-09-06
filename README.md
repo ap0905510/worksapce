@@ -115,5 +115,24 @@
 	git checkout -b branch_yw  --> 新建并切换到该分支
 	git branch branch_yw --> 创建分支
 	git cheakout branch_yw  --> 切换分支
+
+	git checkout -b dev origin/dev --> 创建本地分支dev
 	
 	git checkout master  --> 切回主分支
+
+	git log --graph --pretty=oneline --abbrev-commit --> 查看分支合并图
+
+
+	git branch --set-upstream dev origin/dev --> 指定本地dev分支与远程origin/dev分支的链接
+
+>2.多人协作的工作模式：
+
+    首先，可以试图用git push origin branch-name推送自己的修改；
+
+    如果推送失败，则因为远程分支比你的本地更新，需要先用git pull试图合并；
+
+    如果合并有冲突，则解决冲突，并在本地提交；
+
+    没有冲突或者解决掉冲突后，再用git push origin branch-name推送就能成功！
+
+	如果git pull提示“no tracking information”，则说明本地分支和远程分支的链接关系没有创建，用命令git branch --set-upstream branch-name origin/branch-name。
