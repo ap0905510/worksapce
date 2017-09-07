@@ -1,4 +1,6 @@
-# worksapce
+# MacBook project create by YW -- 2017年9月7日 
+
+# worksapce 
 
 	git config --global user.name
 	
@@ -43,7 +45,7 @@
 
 # 创建SSH Key：
 
-### SSH Key的配置：
+## SSH Key的配置：
 
 >1.Windows下打开Git Bash，创建SSH Key，按提示输入密码，可以不填密码一路回车
 
