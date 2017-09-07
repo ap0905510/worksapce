@@ -1,26 +1,26 @@
 [
     {
-        "merged": "E:\\studio\\TestProject\\bigWheelDemo\\build\\intermediates\\res\\merged\\debug\\layout\\act_luckytwo.xml",
-        "source": "E:\\studio\\TestProject\\bigWheelDemo\\src\\main\\res\\layout\\act_luckytwo.xml"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/build/intermediates/res/merged/debug/layout/act_bigwheel.xml",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/src/main/res/layout/act_bigwheel.xml"
     },
     {
-        "merged": "E:\\studio\\TestProject\\bigWheelDemo\\build\\intermediates\\res\\merged\\debug\\layout\\act_bigwheel.xml",
-        "source": "E:\\studio\\TestProject\\bigWheelDemo\\src\\main\\res\\layout\\act_bigwheel.xml"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/build/intermediates/res/merged/debug/layout/act_luckytwo.xml",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/src/main/res/layout/act_luckytwo.xml"
     },
     {
-        "merged": "E:\\studio\\TestProject\\bigWheelDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
-        "source": "E:\\studio\\TestProject\\bigWheelDemo\\src\\main\\res\\layout\\item.xml"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/build/intermediates/res/merged/debug/layout/item2.xml",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/src/main/res/layout/item2.xml"
     },
     {
-        "merged": "E:\\studio\\TestProject\\bigWheelDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "E:\\studio\\TestProject\\bigWheelDemo\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/build/intermediates/res/merged/debug/layout/item.xml",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/src/main/res/layout/item.xml"
     },
     {
-        "merged": "E:\\studio\\TestProject\\bigWheelDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item2.xml",
-        "source": "E:\\studio\\TestProject\\bigWheelDemo\\src\\main\\res\\layout\\item2.xml"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "E:\\studio\\TestProject\\bigWheelDemo\\build\\intermediates\\res\\merged\\debug\\layout\\act_luckyone.xml",
-        "source": "E:\\studio\\TestProject\\bigWheelDemo\\src\\main\\res\\layout\\act_luckyone.xml"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/build/intermediates/res/merged/debug/layout/act_luckyone.xml",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/src/main/res/layout/act_luckyone.xml"
     }
 ]

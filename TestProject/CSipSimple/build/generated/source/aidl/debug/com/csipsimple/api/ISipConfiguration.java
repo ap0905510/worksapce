@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: E:\\studio\\TestProject\\CSipSimple\\src\\main\\aidl\\com\\csipsimple\\api\\ISipConfiguration.aidl
+ * Original file: /Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/aidl/com/csipsimple/api/ISipConfiguration.aidl
  */
 package com.csipsimple.api;
 public interface ISipConfiguration extends android.os.IInterface

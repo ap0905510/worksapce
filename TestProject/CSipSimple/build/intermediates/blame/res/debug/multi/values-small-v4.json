@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
+        "outputFile": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 92
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-small\\layout.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-small/layout.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 149
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-small\\in_call_values.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-small/in_call_values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 222
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-small\\layout.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-small/layout.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -69,7 +69,7 @@
                     "endOffset": 447
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-small\\style.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-small/style.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,

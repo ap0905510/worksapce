@@ -1,18 +1,18 @@
 [
     {
-        "merged": "E:\\studio\\TestProject\\bigWheelDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\sign_award_get.png",
-        "source": "E:\\studio\\TestProject\\bigWheelDemo\\src\\main\\res\\drawable-xxhdpi\\sign_award_get.png"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/build/intermediates/res/merged/debug/drawable-xxhdpi/sign_award_noget.png",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/src/main/res/drawable-xxhdpi/sign_award_noget.png"
     },
     {
-        "merged": "E:\\studio\\TestProject\\bigWheelDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
-        "source": "E:\\studio\\TestProject\\bigWheelDemo\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/src/main/res/drawable-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "E:\\studio\\TestProject\\bigWheelDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\sign_award_noget.png",
-        "source": "E:\\studio\\TestProject\\bigWheelDemo\\src\\main\\res\\drawable-xxhdpi\\sign_award_noget.png"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_play_normal.png",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/src/main/res/drawable-xxhdpi/btn_play_normal.png"
     },
     {
-        "merged": "E:\\studio\\TestProject\\bigWheelDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_play_normal.png",
-        "source": "E:\\studio\\TestProject\\bigWheelDemo\\src\\main\\res\\drawable-xxhdpi\\btn_play_normal.png"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/build/intermediates/res/merged/debug/drawable-xxhdpi/sign_award_get.png",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/src/main/res/drawable-xxhdpi/sign_award_get.png"
     }
 ]

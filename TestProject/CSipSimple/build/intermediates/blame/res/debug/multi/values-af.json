@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-af\\values-af.xml",
+        "outputFile": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 619
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\arrays.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/arrays.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -32,7 +32,7 @@
                     "endOffset": 683
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\acct_status_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/acct_status_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 2,
@@ -51,7 +51,7 @@
                     "endOffset": 734
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\acct_status_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/acct_status_strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
@@ -70,7 +70,7 @@
                     "endOffset": 797
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\acct_status_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/acct_status_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 2,
@@ -89,7 +89,7 @@
                     "endOffset": 854
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\acct_status_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/acct_status_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 2,
@@ -108,7 +108,7 @@
                     "endOffset": 911
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\acct_status_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/acct_status_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 2,
@@ -127,7 +127,7 @@
                     "endOffset": 978
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\acct_status_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/acct_status_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 2,
@@ -146,7 +146,7 @@
                     "endOffset": 1040
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 2,
@@ -165,7 +165,7 @@
                     "endOffset": 1150
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 2,
@@ -184,7 +184,7 @@
                     "endOffset": 1220
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 2,
@@ -203,7 +203,7 @@
                     "endOffset": 1276
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\messages_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/messages_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 2,
@@ -222,7 +222,7 @@
                     "endOffset": 1334
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 2,
@@ -241,7 +241,7 @@
                     "endOffset": 1382
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 2,
@@ -260,7 +260,7 @@
                     "endOffset": 1430
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\in_call_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/in_call_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 2,
@@ -279,7 +279,7 @@
                     "endOffset": 1477
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\log_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/log_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -298,7 +298,7 @@
                     "endOffset": 1530
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 2,
@@ -317,7 +317,7 @@
                     "endOffset": 1605
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 2,
@@ -336,7 +336,7 @@
                     "endOffset": 1658
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 2,
@@ -355,7 +355,7 @@
                     "endOffset": 1724
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 2,
@@ -374,7 +374,7 @@
                     "endOffset": 1794
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 2,
@@ -393,7 +393,7 @@
                     "endOffset": 1851
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\in_call_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/in_call_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 2,
@@ -412,7 +412,7 @@
                     "endOffset": 1917
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 2,
@@ -431,7 +431,7 @@
                     "endOffset": 1963
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 2,
@@ -450,7 +450,7 @@
                     "endOffset": 2008
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\in_call_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/in_call_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 2,
@@ -469,7 +469,7 @@
                     "endOffset": 2109
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 2,
@@ -488,7 +488,7 @@
                     "endOffset": 2164
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\messages_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/messages_strings.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 2,
@@ -507,7 +507,7 @@
                     "endOffset": 2205
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\messages_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/messages_strings.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 2,
@@ -526,7 +526,7 @@
                     "endOffset": 2269
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\descriptions_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/descriptions_strings.xml",
                     "position": {
                         "startLine": 69,
                         "startColumn": 2,
@@ -545,7 +545,7 @@
                     "endOffset": 2325
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\descriptions_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/descriptions_strings.xml",
                     "position": {
                         "startLine": 65,
                         "startColumn": 2,
@@ -564,7 +564,7 @@
                     "endOffset": 2398
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\descriptions_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/descriptions_strings.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 2,
@@ -583,7 +583,7 @@
                     "endOffset": 2461
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\descriptions_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/descriptions_strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 2,
@@ -602,7 +602,7 @@
                     "endOffset": 2523
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\descriptions_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/descriptions_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 2,
@@ -621,7 +621,7 @@
                     "endOffset": 2586
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\descriptions_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/descriptions_strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 2,
@@ -640,7 +640,7 @@
                     "endOffset": 2649
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\descriptions_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/descriptions_strings.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 2,
@@ -659,7 +659,7 @@
                     "endOffset": 2710
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\descriptions_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/descriptions_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 2,
@@ -678,7 +678,7 @@
                     "endOffset": 2775
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\descriptions_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/descriptions_strings.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 2,
@@ -697,7 +697,7 @@
                     "endOffset": 2839
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\descriptions_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/descriptions_strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 2,
@@ -716,7 +716,7 @@
                     "endOffset": 2900
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\descriptions_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/descriptions_strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 2,
@@ -735,7 +735,7 @@
                     "endOffset": 2963
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\descriptions_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/descriptions_strings.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 2,
@@ -754,7 +754,7 @@
                     "endOffset": 3027
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\descriptions_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/descriptions_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 2,
@@ -773,7 +773,7 @@
                     "endOffset": 3089
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\descriptions_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/descriptions_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 2,
@@ -792,7 +792,7 @@
                     "endOffset": 3151
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\descriptions_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/descriptions_strings.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 2,
@@ -811,7 +811,7 @@
                     "endOffset": 3205
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 2,
@@ -830,7 +830,7 @@
                     "endOffset": 3253
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 2,
@@ -849,7 +849,7 @@
                     "endOffset": 3298
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\messages_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/messages_strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 2,
@@ -868,7 +868,7 @@
                     "endOffset": 3358
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\messages_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/messages_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 2,
@@ -887,7 +887,7 @@
                     "endOffset": 3410
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 2,
@@ -906,7 +906,7 @@
                     "endOffset": 3476
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 2,
@@ -925,7 +925,7 @@
                     "endOffset": 3519
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 2,
@@ -944,7 +944,7 @@
                     "endOffset": 3585
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 2,
@@ -963,7 +963,7 @@
                     "endOffset": 3628
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 2,
@@ -982,7 +982,7 @@
                     "endOffset": 3681
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 2,
@@ -1001,7 +1001,7 @@
                     "endOffset": 3724
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 2,
@@ -1020,7 +1020,7 @@
                     "endOffset": 3788
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 2,
@@ -1039,7 +1039,7 @@
                     "endOffset": 3852
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 2,
@@ -1058,7 +1058,7 @@
                     "endOffset": 3894
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 2,
@@ -1077,7 +1077,7 @@
                     "endOffset": 3932
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 2,
@@ -1096,7 +1096,7 @@
                     "endOffset": 3991
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\messages_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/messages_strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 2,
@@ -1115,7 +1115,7 @@
                     "endOffset": 4077
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 2,
@@ -1134,7 +1134,7 @@
                     "endOffset": 4166
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 2,
@@ -1153,7 +1153,7 @@
                     "endOffset": 4244
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 2,
@@ -1172,7 +1172,7 @@
                     "endOffset": 4284
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\messages_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/messages_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 2,
@@ -1191,7 +1191,7 @@
                     "endOffset": 4336
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 2,
@@ -1210,7 +1210,7 @@
                     "endOffset": 4386
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 2,
@@ -1229,7 +1229,7 @@
                     "endOffset": 4420
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\messages_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/messages_strings.xml",
                     "position": {
                         "startLine": 76,
                         "startColumn": 2,
@@ -1248,7 +1248,7 @@
                     "endOffset": 4462
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\messages_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/messages_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 2,
@@ -1267,7 +1267,7 @@
                     "endOffset": 4522
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\messages_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/messages_strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 2,
@@ -1286,7 +1286,7 @@
                     "endOffset": 4577
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\messages_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/messages_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 2,
@@ -1305,7 +1305,7 @@
                     "endOffset": 4639
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 2,
@@ -1324,7 +1324,7 @@
                     "endOffset": 4694
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 2,
@@ -1343,7 +1343,7 @@
                     "endOffset": 4759
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 2,
@@ -1362,7 +1362,7 @@
                     "endOffset": 4824
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 2,
@@ -1381,7 +1381,7 @@
                     "endOffset": 4886
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 2,
@@ -1400,7 +1400,7 @@
                     "endOffset": 4940
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\messages_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/messages_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 2,
@@ -1419,7 +1419,7 @@
                     "endOffset": 4982
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
@@ -1438,7 +1438,7 @@
                     "endOffset": 5024
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\messages_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/messages_strings.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 2,
@@ -1457,7 +1457,7 @@
                     "endOffset": 5062
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 2,
@@ -1476,7 +1476,7 @@
                     "endOffset": 5109
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 2,
@@ -1495,7 +1495,7 @@
                     "endOffset": 5193
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\wizard_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/wizard_strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
@@ -1514,7 +1514,7 @@
                     "endOffset": 5257
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 2,
@@ -1533,7 +1533,7 @@
                     "endOffset": 5311
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 2,
@@ -1552,7 +1552,7 @@
                     "endOffset": 5416
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
@@ -1571,7 +1571,7 @@
                     "endOffset": 5462
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 2,
@@ -1590,7 +1590,7 @@
                     "endOffset": 5512
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 2,
@@ -1609,7 +1609,7 @@
                     "endOffset": 5597
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 2,
@@ -1628,7 +1628,7 @@
                     "endOffset": 5641
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 2,
@@ -1647,7 +1647,7 @@
                     "endOffset": 5715
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 2,
@@ -1666,7 +1666,7 @@
                     "endOffset": 5783
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 2,
@@ -1685,7 +1685,7 @@
                     "endOffset": 5822
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\messages_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/messages_strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 2,
@@ -1704,7 +1704,7 @@
                     "endOffset": 5898
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 2,
@@ -1723,7 +1723,7 @@
                     "endOffset": 5960
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 2,
@@ -1742,7 +1742,7 @@
                     "endOffset": 6007
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\messages_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/messages_strings.xml",
                     "position": {
                         "startLine": 64,
                         "startColumn": 2,
@@ -1761,7 +1761,7 @@
                     "endOffset": 6059
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\messages_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/messages_strings.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 2,
@@ -1780,7 +1780,7 @@
                     "endOffset": 6111
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\messages_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/messages_strings.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 2,
@@ -1799,7 +1799,7 @@
                     "endOffset": 6158
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\in_call_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/in_call_strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
@@ -1818,7 +1818,7 @@
                     "endOffset": 6254
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 2,
@@ -1837,7 +1837,7 @@
                     "endOffset": 6290
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 2,
@@ -1856,7 +1856,7 @@
                     "endOffset": 6340
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 2,
@@ -1875,7 +1875,7 @@
                     "endOffset": 6409
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 2,
@@ -1894,7 +1894,7 @@
                     "endOffset": 6463
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 2,
@@ -1913,7 +1913,7 @@
                     "endOffset": 6511
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 2,
@@ -1932,7 +1932,7 @@
                     "endOffset": 6562
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\log_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/log_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1951,7 +1951,7 @@
                     "endOffset": 6614
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\log_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/log_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1970,7 +1970,7 @@
                     "endOffset": 6659
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\log_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/log_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1989,7 +1989,7 @@
                     "endOffset": 6701
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 2,
@@ -2008,7 +2008,7 @@
                     "endOffset": 6803
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 2,
@@ -2027,7 +2027,7 @@
                     "endOffset": 6874
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 2,
@@ -2046,7 +2046,7 @@
                     "endOffset": 6924
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 2,
@@ -2065,7 +2065,7 @@
                     "endOffset": 6974
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 2,
@@ -2084,7 +2084,7 @@
                     "endOffset": 7024
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 2,
@@ -2103,7 +2103,7 @@
                     "endOffset": 7085
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 2,
@@ -2122,7 +2122,7 @@
                     "endOffset": 7154
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 2,
@@ -2141,7 +2141,7 @@
                     "endOffset": 7256
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 2,
@@ -2160,7 +2160,7 @@
                     "endOffset": 7306
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 2,
@@ -2179,7 +2179,7 @@
                     "endOffset": 7386
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 2,
@@ -2198,7 +2198,7 @@
                     "endOffset": 7467
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 2,
@@ -2217,7 +2217,7 @@
                     "endOffset": 7522
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\wizard_basic_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/wizard_basic_strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
@@ -2236,7 +2236,7 @@
                     "endOffset": 7582
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\wizard_callcentric_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/wizard_callcentric_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 2,
@@ -2255,7 +2255,7 @@
                     "endOffset": 7653
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\wizard_callcentric_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/wizard_callcentric_strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
@@ -2274,7 +2274,7 @@
                     "endOffset": 7755
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\wizard_callcentric_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/wizard_callcentric_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 2,
@@ -2293,7 +2293,7 @@
                     "endOffset": 7810
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\wizard_common_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/wizard_common_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 2,
@@ -2312,7 +2312,7 @@
                     "endOffset": 7872
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\wizard_common_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/wizard_common_strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
@@ -2331,7 +2331,7 @@
                     "endOffset": 7965
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\wizard_common_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/wizard_common_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 2,
@@ -2350,7 +2350,7 @@
                     "endOffset": 8016
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\wizard_expert_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/wizard_expert_strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
@@ -2369,7 +2369,7 @@
                     "endOffset": 8095
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\wizard_expert_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/wizard_expert_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 2,
@@ -2388,7 +2388,7 @@
                     "endOffset": 8166
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\wizard_expert_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/wizard_expert_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 2,
@@ -2407,7 +2407,7 @@
                     "endOffset": 8260
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\wizard_iinet_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/wizard_iinet_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 2,
@@ -2426,7 +2426,7 @@
                     "endOffset": 8322
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\wizard_iinet_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/wizard_iinet_strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
@@ -2445,7 +2445,7 @@
                     "endOffset": 8370
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 2,
@@ -2464,7 +2464,7 @@
                     "endOffset": 8426
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\welcome_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/welcome_strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
@@ -2483,7 +2483,7 @@
                     "endOffset": 8488
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\prefs_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/prefs_strings.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 2,
@@ -2502,7 +2502,7 @@
                     "endOffset": 8565
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\wizard_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/wizard_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 2,
@@ -2521,7 +2521,7 @@
                     "endOffset": 8604
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-af\\messages_strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-af/messages_strings.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 2,

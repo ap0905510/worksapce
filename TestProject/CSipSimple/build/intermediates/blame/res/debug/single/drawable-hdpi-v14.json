@@ -1,14 +1,14 @@
 [
     {
-        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v14\\appwidget_inner_press.9.png",
-        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-hdpi-v14\\appwidget_inner_press.9.png"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/build/intermediates/res/merged/debug/drawable-hdpi-v14/appwidget_inner_focus.9.png",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/drawable-hdpi-v14/appwidget_inner_focus.9.png"
     },
     {
-        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v14\\appwidget_bg.9.png",
-        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-hdpi-v14\\appwidget_bg.9.png"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/build/intermediates/res/merged/debug/drawable-hdpi-v14/appwidget_bg.9.png",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/drawable-hdpi-v14/appwidget_bg.9.png"
     },
     {
-        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v14\\appwidget_inner_focus.9.png",
-        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\drawable-hdpi-v14\\appwidget_inner_focus.9.png"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/build/intermediates/res/merged/debug/drawable-hdpi-v14/appwidget_inner_press.9.png",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/drawable-hdpi-v14/appwidget_inner_press.9.png"
     }
 ]

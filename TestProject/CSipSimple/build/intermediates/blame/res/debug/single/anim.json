@@ -1,10 +1,10 @@
 [
     {
-        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right.xml",
-        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\anim\\slide_right.xml"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/build/intermediates/res/merged/debug/anim/layout_slide_right.xml",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/anim/layout_slide_right.xml"
     },
     {
-        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\anim\\layout_slide_right.xml",
-        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\anim\\layout_slide_right.xml"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/build/intermediates/res/merged/debug/anim/slide_right.xml",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/anim/slide_right.xml"
     }
 ]

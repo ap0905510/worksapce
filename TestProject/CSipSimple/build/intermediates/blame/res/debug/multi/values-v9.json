@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v9\\values-v9.xml",
+        "outputFile": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v9/values-v9.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 182
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-v9\\prefs_values.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-v9/prefs_values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 302
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-v9\\prefs_values.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-v9/prefs_values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -54,7 +54,7 @@
                     "endOffset": 475
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-v9\\arrays.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-v9/arrays.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -74,7 +74,7 @@
                     "endOffset": 567
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-v9\\style.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-v9/style.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -93,7 +93,7 @@
                     "endOffset": 666
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-v9\\style.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-v9/style.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "outputFile": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 98
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-v11\\bools.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-v11/bools.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 140
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-v11\\bools.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-v11/bools.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 209
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-v11\\style.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-v11/style.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 302
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-v11\\style.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-v11/style.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 392
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-v11\\style.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-v11/style.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 446
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-v11\\style.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-v11/style.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -126,7 +126,7 @@
                     "endOffset": 636
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\values-v11\\values.xml",
+                    "file": "/Users/yw/.android/build-cache/d6c265c8c7bd8e446c433a5b8b9687d4b7b3ec2c/output/res/values-v11/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -147,7 +147,7 @@
                     "endOffset": 838
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\values-v11\\values.xml",
+                    "file": "/Users/yw/.android/build-cache/d6c265c8c7bd8e446c433a5b8b9687d4b7b3ec2c/output/res/values-v11/values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,

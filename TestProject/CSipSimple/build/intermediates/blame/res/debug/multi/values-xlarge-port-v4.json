@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-port-v4\\values-xlarge-port-v4.xml",
+        "outputFile": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-port-v4/values-xlarge-port-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 95
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-xlarge-port\\layout.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-xlarge-port/layout.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 168
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\values-xlarge-port\\layout.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/values-xlarge-port/layout.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,

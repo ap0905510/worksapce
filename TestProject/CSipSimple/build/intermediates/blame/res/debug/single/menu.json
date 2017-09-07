@@ -1,22 +1,22 @@
 [
     {
-        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\menu\\fav_menu.xml",
-        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\menu\\fav_menu.xml"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/build/intermediates/res/merged/debug/menu/main_prefs.xml",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/menu/main_prefs.xml"
     },
     {
-        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\menu\\in_call_controls_menu.xml",
-        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\menu\\in_call_controls_menu.xml"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/build/intermediates/res/merged/debug/menu/call_log_menu.xml",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/menu/call_log_menu.xml"
     },
     {
-        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\menu\\call_log_menu.xml",
-        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\menu\\call_log_menu.xml"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/build/intermediates/res/merged/debug/menu/in_call_controls_menu.xml",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/menu/in_call_controls_menu.xml"
     },
     {
-        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\menu\\in_call_card_menu.xml",
-        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\menu\\in_call_card_menu.xml"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/build/intermediates/res/merged/debug/menu/in_call_card_menu.xml",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/menu/in_call_card_menu.xml"
     },
     {
-        "merged": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\res\\merged\\debug\\menu\\main_prefs.xml",
-        "source": "E:\\studio\\TestProject\\CSipSimple\\src\\main\\res\\menu\\main_prefs.xml"
+        "merged": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/build/intermediates/res/merged/debug/menu/fav_menu.xml",
+        "source": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/src/main/res/menu/fav_menu.xml"
     }
 ]

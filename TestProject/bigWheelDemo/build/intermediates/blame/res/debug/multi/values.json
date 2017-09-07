@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\studio\\TestProject\\bigWheelDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 91
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\bigWheelDemo\\src\\main\\res\\values\\colors.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 57,
+                        "startOffset": 55,
                         "endColumn": 40,
-                        "endOffset": 93
+                        "endOffset": 91
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 246
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\bigWheelDemo\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 92,
+                        "startOffset": 89,
                         "endColumn": 57,
-                        "endOffset": 145
+                        "endOffset": 142
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 302
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\bigWheelDemo\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 151,
+                        "startOffset": 147,
                         "endColumn": 55,
-                        "endOffset": 202
+                        "endOffset": 198
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 355
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\bigWheelDemo\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 109,
+                        "startOffset": 106,
                         "endColumn": 52,
-                        "endOffset": 157
+                        "endOffset": 154
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 405
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\bigWheelDemo\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 58,
+                        "startOffset": 56,
                         "endColumn": 49,
-                        "endOffset": 103
+                        "endOffset": 101
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 458
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\bigWheelDemo\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 163,
+                        "startOffset": 159,
                         "endColumn": 52,
-                        "endOffset": 211
+                        "endOffset": 207
                     }
                 }
             },
@@ -126,14 +126,14 @@
                     "endOffset": 749
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\bigWheelDemo\\src\\main\\res\\values\\styles.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 191,
+                        "startOffset": 186,
                         "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 481
+                        "endOffset": 472
                     }
                 }
             },
@@ -147,14 +147,14 @@
                     "endOffset": 909
                 },
                 "from": {
-                    "file": "E:\\studio\\TestProject\\bigWheelDemo\\src\\main\\res\\values\\styles.xml",
+                    "file": "/Volumes/Y/gitproject/androidproject/TestProject/bigWheelDemo/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 522,
+                        "startOffset": 510,
                         "endLine": 17,
                         "endColumn": 12,
-                        "endOffset": 679
+                        "endOffset": 665
                     }
                 }
             }

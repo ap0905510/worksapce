@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\studio\\TestProject\\CSipSimple\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w360dp-v13\\values-w360dp-v13.xml",
+        "outputFile": "/Volumes/Y/gitproject/androidproject/TestProject/CSipSimple/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\f79f3535a959ed764603c6ca346b5cae38aa15c0\\output\\res\\values-w360dp\\values.xml",
+                    "file": "/Users/yw/.android/build-cache/d6c265c8c7bd8e446c433a5b8b9687d4b7b3ec2c/output/res/values-w360dp/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

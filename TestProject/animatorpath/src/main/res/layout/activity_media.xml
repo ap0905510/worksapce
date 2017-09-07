@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffe8e8e8">
+
+    <ImageView
+        android:id="@+id/cover"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@mipmap/ic_launcher_round"
+        android:scaleType="centerCrop"/>
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="126dp"
+        android:minHeight="?attr/actionBarSize"
+        android:layout_below="@+id/cover"
+        android:paddingLeft="72dp"
+        android:elevation="4dp"
+        android:background="?attr/colorPrimary">
+
+        <LinearLayout
+            android:id="@+id/media_controls_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="荷塘月色"
+                android:textColor="#FFF"
+                android:textSize="20sp"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="凤凰传奇"
+                android:textColor="#CCC"
+                android:layout_marginTop="5dp"
+                android:textSize="15sp"/>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+    <FrameLayout
+        android:id="@+id/fab_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="150dp">
+
+        <ImageButton
+            android:id="@+id/fab"
+            android:transitionName="button_fab"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_gravity="top|right"
+            android:layout_marginRight="30dp"
+            android:background="@mipmap/ic_launcher_round"
+            android:elevation="3dp"
+            android:onClick="onFabPressed"/>
+    </FrameLayout>
+
+</RelativeLayout>
