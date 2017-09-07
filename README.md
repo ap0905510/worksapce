@@ -114,3 +114,9 @@
 
 	git branch yw_branch --> 创建分支
 	git checkout yw_branch --> 切换分支
+
+
+## 本地创建分支mac
+
+    git fetch --> 从远程获取最新版本到本地，不会自动merge
+    git push -u origin mac --> 第一次加-u 推送mac分支的所有内容
