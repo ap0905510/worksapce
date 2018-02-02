@@ -23,9 +23,9 @@
 
 	git status --> 查看修改内容
 
-	git commit
+	git commit --> 提交(要求填写备注)
 
-	git push 
+	git push --> 向远程分支推送同步更新 
 
 	git diff --> 查看具体修改了什么
 
