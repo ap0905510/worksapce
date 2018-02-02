@@ -114,7 +114,7 @@
 
 	git checkout -b branch_yw  --> 新建并切换到该分支
 	git branch branch_yw --> 创建分支
-	git cheakout branch_yw  --> 切换分支
+	git checkout branch_yw  --> 切换分支
 
 	git checkout -b dev origin/dev --> 创建本地分支dev
 	
